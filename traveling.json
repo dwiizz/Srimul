@@ -2,7 +2,7 @@
   "apps": [
     {
       "status": true,
-      "featured_categories": "France, UAE, Brazil,	Italia,	Chile",
+      "featured_categories": "France, UAE, Brazil, Italia, Chile",
       "show_wallpaper_name": true,
       "show_wallpaper_category": false,
       "show_favorite_button_in_wallpaper_list": true,
